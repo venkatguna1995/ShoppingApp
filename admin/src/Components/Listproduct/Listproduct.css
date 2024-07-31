@@ -1,0 +1,26 @@
+.list-product {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-products-main,
+.list-product-formate-main {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.list-products {
+  width: 100%;
+}
+
+hr {
+  width: 90%;
+}
+.list-products img{
+    widows: 100px;
+    height: 100px;
+}

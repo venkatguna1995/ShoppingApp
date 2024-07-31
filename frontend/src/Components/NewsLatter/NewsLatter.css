@@ -1,0 +1,48 @@
+.newslatter{
+    width: 65%;
+    margin: auto;
+    background: linear-gradient(180deg,#fde1ff 0%, #e1ffea22 60%);
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.newslatter h1{
+    font-size: 40px;
+}
+
+.newslatter p{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.newslatter div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.newslatter div input{
+    width: 350px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.newslatter div input::placeholder{
+    text-align: center;
+}
+
+.newslatter div button{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+}
+
+

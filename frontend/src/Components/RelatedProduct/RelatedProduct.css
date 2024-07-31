@@ -1,0 +1,19 @@
+.related-product{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    height: 60vh;
+}
+
+.related-product h1{
+    font-size: 30px;
+    border-bottom: 20px;
+    text-align: center;
+}
+
+.relatedproducts-item{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

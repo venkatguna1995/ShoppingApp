@@ -1,0 +1,28 @@
+/* Shop Category Css */
+.shop_category{
+    /* margin: auto; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    padding-top: 55px;
+}
+.shop_category img{
+    width: 80%;
+    height: 60vh;
+}
+.shopcategory_indexsort{
+    padding: 30px;
+}
+
+.shopcategory-products{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+
+
+
+
